@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait illustré de Rachel, naturopathe</title>
+  <desc id="desc">Portrait doux d'une naturopathe dans un jardin, avec des feuillages et des fleurs.</desc>
+  <rect width="720" height="900" fill="#dce8d9"/>
+  <circle cx="548" cy="170" r="105" fill="#f3b48e" opacity=".75"/>
+  <path d="M0 650 C115 545 190 610 275 548 C370 480 454 570 520 510 C610 428 686 500 720 455 V900 H0Z" fill="#9db89b"/>
+  <path d="M0 760 C100 680 190 735 265 670 C360 585 450 700 538 620 C620 548 684 620 720 590 V900 H0Z" fill="#6e9276"/>
+  <g fill="none" stroke="#46694f" stroke-width="10" stroke-linecap="round">
+    <path d="M84 765 C72 650 90 555 151 482"/><path d="M119 670 C65 612 54 556 68 506"/><path d="M103 624 C148 568 170 526 164 473"/>
+    <path d="M612 690 C590 590 606 515 665 430"/><path d="M635 578 C674 538 686 491 678 451"/>
+  </g>
+  <g fill="#e98d72"><circle cx="67" cy="505" r="24"/><circle cx="164" cy="471" r="20"/><circle cx="679" cy="448" r="22"/></g>
+  <g transform="translate(183 166)">
+    <path d="M105 260 C105 126 167 48 280 48 C402 48 454 155 430 291 C412 394 351 438 270 438 C181 438 105 377 105 260Z" fill="#f6c5a8"/>
+    <path d="M85 238 C55 101 144 0 278 0 C423 0 482 94 443 270 L406 217 C379 167 355 130 300 115 C242 99 201 137 173 196 L149 268Z" fill="#485746"/>
+    <path d="M105 214 C80 330 131 448 270 466 C374 480 431 405 435 309 C397 354 354 370 303 361 C212 346 167 292 148 212Z" fill="#485746"/>
+    <path d="M194 280 Q224 300 251 280" fill="none" stroke="#a65f57" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="195" cy="236" r="9" fill="#405044"/><circle cx="332" cy="236" r="9" fill="#405044"/>
+    <path d="M195 204 Q220 188 244 204 M306 204 Q331 188 355 204" fill="none" stroke="#405044" stroke-width="7" stroke-linecap="round"/>
+    <path d="M145 520 C159 404 383 404 405 520 L449 734 H89Z" fill="#c67d6c"/>
+    <path d="M245 461 L279 507 L313 461" fill="#fff7e9"/>
+    <path d="M243 505 L279 548 L315 505" fill="none" stroke="#e5b28d" stroke-width="8"/>
+  </g>
+  <g fill="#f7d18d"><circle cx="94" cy="820" r="13"/><circle cx="132" cy="791" r="10"/><circle cx="641" cy="798" r="13"/></g>
+</svg>
